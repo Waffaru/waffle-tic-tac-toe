@@ -1,0 +1,10 @@
+Waffaru::2::100
+Test::1::1
+Leeo::1::1
+Hehenasu::1::1
+Jarmo::1::1
+Jussi::4::3
+Leo::12::8
+Kalle::3::1
+l::1::0
+random::1::0
